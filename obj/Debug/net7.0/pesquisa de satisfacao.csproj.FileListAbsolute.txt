@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\bin\Debug\net7.0\pesquisa de satisfacao.exe
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\bin\Debug\net7.0\pesquisa de satisfacao.deps.json
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\bin\Debug\net7.0\pesquisa de satisfacao.runtimeconfig.json
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\bin\Debug\net7.0\pesquisa de satisfacao.dll
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\bin\Debug\net7.0\pesquisa de satisfacao.pdb
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.dll
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\refint\pesquisa de satisfacao.dll
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.pdb
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\pesquisa de satisfacao.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\pesquisa de satisfacao\obj\Debug\net7.0\ref\pesquisa de satisfacao.dll
